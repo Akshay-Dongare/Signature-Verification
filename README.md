@@ -15,7 +15,7 @@
      ```
 4. Activate Conda Environment
    ```
-   conda activate sing
+   conda activate signature-verification
    ```
 5. Run Streamlit App
    ```
