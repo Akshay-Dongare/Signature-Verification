@@ -1,5 +1,10 @@
 # Signature-Verification
-# Steps to set up:
+## Demo on Youtube:
+### Click the image below
+[<img src=![image](https://github.com/Akshay-Dongare/Signature-Verification/assets/75126845/8ccb20ba-5de1-4bc1-aff1-0a93bc8361f8)
+ width="50%">](https://www.youtube.com/watch?v=WjGSDngRdt8&ab_channel=AkshayDongare "Signature Verification Project Demo") 
+* Or use this link: [https://www.youtube.com/watch?v=im5DmQXO7RE ](https://www.youtube.com/watch?v=WjGSDngRdt8&ab_channel=AkshayDongare)
+## Steps to set up:
 1. Clone the repo and `cd` into it
 2. Downloading required models
    * Download [https://huggingface.co/Akshay-Dongare/kerasVggSigFeatures.h5](https://huggingface.co/Akshay-Dongare/kerasVggSigFeatures.h5) and place it in `SOURCE\vgg_finetuned_model`
